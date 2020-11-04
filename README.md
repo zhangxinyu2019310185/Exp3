@@ -40,4 +40,5 @@ public static void main(String[] args){      //对于实例化研究生类,通�
   ```
 ## 系统运行结果截图 
 ![](https://github.com/zhangxinyu2019310185/Exp3/blob/main/11.png)
+![](https://github.com/zhangxinyu2019310185/Exp3/blob/main/12.png)
 ## 编程感想
